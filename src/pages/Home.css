@@ -22,12 +22,13 @@
   background-color: #3b8ff3;
   color: white;
   width: 160px;
+  transition: width 1s ease-in-out;
 }
 .home-buttons .btn-hire:hover{
     background-color: white;
     color:  #3b8ff3 ;
    width: 200px;
-    transition:  1s;
+    
 }
 
 .home-buttons .btn-cv{
