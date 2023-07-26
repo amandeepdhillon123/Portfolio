@@ -1,6 +1,6 @@
 import React from 'react'
 import './Home.css'
-import Resume from "../assets/docs/resume.txt"
+import Resume from "../../assets/docs/resume.txt"
 import Typewriter from 'typewriter-effect';
 const Home = () => {
   return (
