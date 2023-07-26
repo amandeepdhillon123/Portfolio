@@ -9,10 +9,9 @@ function App() {
     <>
       <Layout />
       <div className="container">
-      <About/>
+        <About />
       </div>
-      <Techstack/>
-     
+      <Techstack />
     </>
   );
 }
