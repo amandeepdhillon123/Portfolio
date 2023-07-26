@@ -13,11 +13,10 @@ const About = () => {
                    <h1>About me</h1>
                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure officiis commodi illo nihil culpa voluptates! Placeat corporis pariatur laboriosam nostrum sunt, ullam necessitatibus impedit quaerat deleniti illo qui dolorem perspiciatis?
 
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eveniet voluptate labore non inventore rerum obcaecati natus ratione consequuntur suscipit at nostrum delectus, maxime porro exercitationem ipsa numquam, ut itaque doloribus.
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur illum incidunt consequuntur corporis assumenda porro officia, provident iure soluta! Iusto totam laudantium vitae quibusdam facilis impedit velit ut placeat fugiat.
+                    ut itaque doloribus.
+                    
 
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, quasi perspiciatis laborum enim commodi quisquam voluptatibus temporibus alias voluptas obcaecati pariatur ipsa laudantium, nemo voluptate minus repellendus corrupti nihil earum!
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus voluptates consectetur laborum laudantium corporis iure magni totam at, assumenda tempore eligendi vel! Vero delectus possimus alias necessitatibus odit odio nesciunt.
+.
                    </p>
                </div>
              </div>
