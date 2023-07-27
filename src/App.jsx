@@ -3,6 +3,7 @@ import Layout from "./components/Layout/Layout";
 import "./App.css";
 import About from "./pages/About/About";
 import Techstack from "./pages/Techstack/Techstack";
+import Projects from "./pages/Projects/Projects";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         <About />
       </div>
       <Techstack />
+      <Projects/>
     </>
   );
 }
