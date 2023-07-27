@@ -13,11 +13,14 @@ const Projects = () => {
         </p>
         <div className="row" id="ads">
           <div className="col-md-4">
-            <div className="card rounded  ">
-              <div className="card-image ">
+            <div className="card rounded">
+              <div className="card-image">
                 <span className="card-notify-badge">Full Stack</span>
 
-                <img src="https://media.istockphoto.com/id/1375897191/photo/businessman-using-a-computer-to-lms-learning-management-system-web-icon-for-lesson-and-online.jpg?s=612x612&w=is&k=20&c=Xanv95zz38HdzU-Mi5C5DyNR8vJTWF_K1Cv7KYhUrWw=" alt="" />
+                <img
+                  src="https://media.istockphoto.com/id/1375897191/photo/businessman-using-a-computer-to-lms-learning-management-system-web-icon-for-lesson-and-online.jpg?s=612x612&w=is&k=20&c=Xanv95zz38HdzU-Mi5C5DyNR8vJTWF_K1Cv7KYhUrWw="
+                  alt=""
+                />
               </div>
               <div className="card-image-overly m-auto mt-3">
                 <span className="card-detail-badge">Nodejs</span>
@@ -29,18 +32,22 @@ const Projects = () => {
                 <div className="ad-title m-auto ">
                   <h5 className="text-uppercase">shopping website</h5>
                 </div>
-                <a href="#" className="ad-btn">View</a>
+                <a href="#" className="ad-btn">
+                  View
+                </a>
               </div>
             </div>
           </div>
-
 
           <div className="col-md-4">
             <div className="card rounded">
               <div className="card-image">
                 <span className="card-notify-badge">Full Stack</span>
 
-                <img src="https://media.istockphoto.com/id/1375897191/photo/businessman-using-a-computer-to-lms-learning-management-system-web-icon-for-lesson-and-online.jpg?s=612x612&w=is&k=20&c=Xanv95zz38HdzU-Mi5C5DyNR8vJTWF_K1Cv7KYhUrWw=" alt="" />
+                <img
+                  src="https://media.istockphoto.com/id/1375897191/photo/businessman-using-a-computer-to-lms-learning-management-system-web-icon-for-lesson-and-online.jpg?s=612x612&w=is&k=20&c=Xanv95zz38HdzU-Mi5C5DyNR8vJTWF_K1Cv7KYhUrWw="
+                  alt=""
+                />
               </div>
               <div className="card-image-overly m-auto mt-3">
                 <span className="card-detail-badge">Nodejs</span>
@@ -52,7 +59,9 @@ const Projects = () => {
                 <div className="ad-title m-auto ">
                   <h5 className="text-uppercase">shopping website</h5>
                 </div>
-                <a href="#" className="ad-btn">View</a>
+                <a href="#" className="ad-btn">
+                  View
+                </a>
               </div>
             </div>
           </div>
@@ -62,7 +71,10 @@ const Projects = () => {
               <div className="card-image">
                 <span className="card-notify-badge">Full Stack</span>
 
-                <img src="https://media.istockphoto.com/id/1375897191/photo/businessman-using-a-computer-to-lms-learning-management-system-web-icon-for-lesson-and-online.jpg?s=612x612&w=is&k=20&c=Xanv95zz38HdzU-Mi5C5DyNR8vJTWF_K1Cv7KYhUrWw=" alt="" />
+                <img
+                  src="https://media.istockphoto.com/id/1375897191/photo/businessman-using-a-computer-to-lms-learning-management-system-web-icon-for-lesson-and-online.jpg?s=612x612&w=is&k=20&c=Xanv95zz38HdzU-Mi5C5DyNR8vJTWF_K1Cv7KYhUrWw="
+                  alt=""
+                />
               </div>
               <div className="card-image-overly m-auto mt-3">
                 <span className="card-detail-badge">Nodejs</span>
@@ -74,7 +86,9 @@ const Projects = () => {
                 <div className="ad-title m-auto">
                   <h5 className="text-uppercase">shopping website</h5>
                 </div>
-                <a href="#" className="ad-btn">View</a>
+                <a href="#" className="ad-btn">
+                  View
+                </a>
               </div>
             </div>
           </div>
