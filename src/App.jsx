@@ -4,6 +4,7 @@ import "./App.css";
 import About from "./pages/About/About";
 import Techstack from "./pages/Techstack/Techstack";
 import Projects from "./pages/Projects/Projects";
+import Education from "./pages/Education/Education";
 
 function App() {
   return (
@@ -11,9 +12,11 @@ function App() {
       <Layout />
       <div className="container">
         <About />
-      </div>
-      <Techstack />
+        <Education/>
+        <Techstack />
       <Projects/>
+      </div>
+   
     </>
   );
 }
